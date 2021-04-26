@@ -1,4 +1,4 @@
-I’m Nurhad Barokah, a Software Engineer based in Jakarta, Indonesia specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core.
+I’m Muhammad Nurhad Barokah, a Software Engineer based in Jakarta, Indonesia specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core.
 
 - 👋 Currently working on <a href="https://www.xsis.co.id/">PT. Xsis Mitra Utama</a> 
 - 👀 I write the code for the client base project
